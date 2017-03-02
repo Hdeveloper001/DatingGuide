@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023638146626",
+    "firebase_url": "https://dating-guide-badoo.firebaseio.com",
+    "project_id": "dating-guide-badoo",
+    "storage_bucket": "dating-guide-badoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023638146626:android:a0060b8b33430404",
+        "android_client_info": {
+          "package_name": "com.taxidriver.ubertips1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023638146626-dm8q1leemea6j3v6sc0jvbctedfiodg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMR0XvB2yOhzY650j4IdaW8TCs7dhA0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
